@@ -1,1 +1,0 @@
-# [Session Memory](https://openai.github.io/openai-agents-python/sessions/)
